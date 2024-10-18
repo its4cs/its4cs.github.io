@@ -1,12 +1,31 @@
 ===- 191024
 
     Problem statement: automate google sheet
+                       
+					   Sheet Tabs:
 
-    workflow
+                        Dashboard:
+						
+						Full Account:
+						
+						Investment:
+						
+						Agri Model:
+							Seasons:
+								Weather:
+							Crops:
+								Quality
+								Price
 
-    design
+                        ToDos with levels of urgency 
 
-    testing        
+    Workflow
+
+    Design
+
+    Testing
 
       
+
+=======
 
