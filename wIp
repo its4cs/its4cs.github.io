@@ -1,6 +1,46 @@
-===- 191024
 
-    Problem statement: automate google sheet
+===- 301024
+
+	- Make groundwork for following tasks and activities:	
+
+	Very first LP in fresh Mautic 
+	
+		Landing Page Internals
+
+			1. 
+			2
+			3
+
+
+===- 19, 23, 24, 26, 291024
+
+
+	Working 0Mautic 
+		\\wsl.localhost\Ubuntu\home\k0\devkemp\mautic-environments\dev\test\mautic
+		
+			1. Mautic 5.1 Web UI		https://127.0.0.1:32772			https://mautic.ddev.site
+			2. MariaDB 10.3 
+			3. phpMyAdmin												https://mautic.ddev.site:8037
+			4. Redis 													
+			5. RedisCommander											https://mautic.ddev.site:1359
+			6. Selenium Chrome
+			7. MailPit													https://mautic.ddev.site:8026
+			
+			
+	:--------	
+
+	Windows DDEV Setup:
+	
+		- Enter into WSL -> Ubuntu
+		- probe available DDEV projects
+
+			. cd to working project
+					.. start working
+		- Make groundwork for following tasks and activities:			
+
+	+ Learning scenario:-
+
+		Problem statement: automate google sheet
                        
 					   Sheet Tabs:
 
@@ -25,7 +65,5 @@
 
     Testing
 
-      
-
-=======
+--------
 
