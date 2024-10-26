@@ -1,6 +1,16 @@
-===- 191024
+===- 19, 23, 24, 261024
 
-    Problem statement: automate google sheet
+	
+
+	Windows DDEV Setup:
+	
+		- Enter into WSL -> Ubuntu
+		- probe available DDEV projects
+		- Make groundwork for following tasks and activities:			
+
+	+ Learning scenario:-
+
+		Problem statement: automate google sheet
                        
 					   Sheet Tabs:
 
