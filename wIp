@@ -1,10 +1,30 @@
-<<<<<<< HEAD
-===- 19, 23, 24, 261024
 
-	
-=======
+	For our close-knit community of customers, the digital chasm doesn't overwhelm.
 
-===- 301024
+===- 30, 311024
+
+		What
+			Digital First with Human Touch.
+		Us
+			Digital Marketing for Everyone
+		Magic
+			We help you in connecting your dots.
+		Connect
+			info@
+			Email
+			Phone
+			WhatsApp
+			Twitter
+			LinkedIn
+			Chatbot
+			
+
+			Software Engineering
+			Digital Marketing
+			Opensource
+			PHP Symfony
+			Germany
+
 
 	- Make groundwork for following tasks and activities:	
 
@@ -12,9 +32,9 @@
 	
 		Landing Page Internals
 
-			1. 
-			2
-			3
+			1. Mautic is using Twig based templates
+			2. 
+			3. 
 
 
 ===- 19, 23, 24, 26, 291024
@@ -33,18 +53,25 @@
 			
 			
 	:--------	
->>>>>>> 6be951f (modified:   wIp)
+
+=======
+
 
 	Windows DDEV Setup:
 	
 		- Enter into WSL -> Ubuntu
 		- probe available DDEV projects
-<<<<<<< HEAD
+
 =======
 
 			. cd to working project
 					.. start working
->>>>>>> 6be951f (modified:   wIp)
+
+=======
+
+			. cd to working project
+					.. start working
+
 		- Make groundwork for following tasks and activities:			
 
 	+ Learning scenario:-
