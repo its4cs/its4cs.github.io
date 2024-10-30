@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-===- 19, 23, 24, 261024
-
-	
-=======
 
 ===- 301024
 
@@ -33,18 +28,25 @@
 			
 			
 	:--------	
->>>>>>> 6be951f (modified:   wIp)
+
+=======
+
 
 	Windows DDEV Setup:
 	
 		- Enter into WSL -> Ubuntu
 		- probe available DDEV projects
-<<<<<<< HEAD
+
 =======
 
 			. cd to working project
 					.. start working
->>>>>>> 6be951f (modified:   wIp)
+
+=======
+
+			. cd to working project
+					.. start working
+
 		- Make groundwork for following tasks and activities:			
 
 	+ Learning scenario:-
